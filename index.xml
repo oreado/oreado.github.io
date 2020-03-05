@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>oreado</title>
+    <link>/</link>
+    <description>Recent content on oreado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>oreado@2020</copyright>
+    <lastBuildDate>Sun, 20 Mar 2016 23:28:02 +0800</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>终于制作了自己的Blog</title>
+      <link>/post/%E7%BB%88%E4%BA%8E%E5%88%B6%E4%BD%9C%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84blog/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/%E7%BB%88%E4%BA%8E%E5%88%B6%E4%BD%9C%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84blog/</guid>
+      <description>想要一个完全自主的Blog已经很久了，这次终于下定决心倒腾了一个。
+Github、Blogdown、Hugo、CSS一通下来委实满头大汗，结果还有很多不满意的，也还有很多想要测试的想法，后续再慢慢捯饬吧。
+一句 “ Done is better than perfect ” 献给自己。
+Blogdown真好用，赞美Blogdown 😃。</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>/about/</link>
+      <pubDate>Sun, 20 Mar 2016 23:28:02 +0800</pubDate>
+      
+      <guid>/about/</guid>
+      <description>关于 Hugo 主题 </description>
+    </item>
+    
+  </channel>
+</rss>
