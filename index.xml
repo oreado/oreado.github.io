@@ -13,6 +13,17 @@
     
     
     <item>
+      <title>2020-03-05</title>
+      <link>/post/2020-03-05/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-03-05/</guid>
+      <description>为了填充空荡荡的主页，打算每天都写点东西了。昨天倒腾了一天的CSS样式，今天一觉醒来觉得还是觉得哪里不对，索性换了个主题。因为形势的问题，感觉到应该时不时更新简历，一方面可以检视自己，另一方面也有备无患。原本想自己做一个小工具，结果发现hugo上居然还有简历的模板，bloggdown来一套，往里面填字，回头再改改CSS就行了，省事了。今天发现了一篇阐释NGS在临检中应用的综述，虽说2017年的文章2020年才发现未免火星了，但是很值得一看，就当作下周的计划吧，希望看完能写写笔记或者画个思维导图什么的，随意一点的就好，填充一下Github。说到填充Github，打算每天做一点rosalind练习。
+最后测试一下Rmarkdown
+norm_samp &amp;lt;- rnorm(100)qqnorm(norm_samp)abline(a=0, b=1, col=&amp;#39;grey&amp;#39;)</description>
+    </item>
+    
+    <item>
       <title>终于制作了自己的Blog</title>
       <link>/post/%E7%BB%88%E4%BA%8E%E5%88%B6%E4%BD%9C%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84blog/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
