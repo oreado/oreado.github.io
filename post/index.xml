@@ -7,13 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>oreado@2020</copyright>
-    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>2020-03-05</title>
+      <title>花了一天做Rosalind上的习题</title>
+      <link>/post/2020-03-06/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-03-06/</guid>
+      <description>花了一天做rosalind上的习题，还是很开心的。对于python一直处于道理我都懂，但是用起来无从下手的阶段，一通练习做下来感觉有点找到窍门了。
+每道题做完试着总结了知识点笔记，也许以后会用到，到时候总结一下还可以填充博客，但是过程还是有些考验耐性的。 琢磨代码很开心但是写文字很磨人🙈。
+经常听人说R语言反人类难理解，但是像我这样从R入手，习惯了R的向量化操作的，反而觉得Python啥玩意都要循环很麻烦。R里面的函数经常是管他什么数值字符串向量列表都能往里填，虽然混沌但是很省事啊！😂。
+不过python的字符串处理是真的爽，很优雅。</description>
+    </item>
+    
+    <item>
+      <title>各种小计划</title>
       <link>/post/2020-03-05/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
